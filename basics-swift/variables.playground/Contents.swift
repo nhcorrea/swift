@@ -1,7 +1,6 @@
 import UIKit
 
 //MARK: Basics of variables
-
 // 1 -> var (mutavel)
 // 2 -> variable name
 // 3 -> type (optional)
